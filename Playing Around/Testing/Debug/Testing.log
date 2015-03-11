@@ -1,0 +1,5 @@
+﻿  testing.cpp
+c:\users\syed\documents\github\primer\playing around\testing\testing.cpp(33): error C2385: ambiguous access of 'display'
+          could be the 'display' in base 'A'
+          or could be the 'display' in base 'B'
+c:\users\syed\documents\github\primer\playing around\testing\testing.cpp(33): error C3861: 'display': identifier not found
